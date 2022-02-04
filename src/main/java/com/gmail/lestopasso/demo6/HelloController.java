@@ -20,7 +20,7 @@ public class HelloController {
     @FXML
     public void initialize(){
         view.setImage(
-                new Image(".\\Cars-Luigi.jpg")
+                new Image("Cars-Luigi.jpg")
         );
     }
 }
